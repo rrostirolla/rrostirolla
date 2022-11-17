@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-#### I’m Front-end Engineer
+#### I’m Front-end Developer
 
 <br>
 
