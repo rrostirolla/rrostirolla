@@ -5,7 +5,7 @@
 
 <br>
 
-- ⚙️ I use daily: `JavaScript`, `HTML`, `CSS`, `React.js`, `Typescript`, `Vue.js`, `SASS`, `Redux`, `jQuery`, `Bootstrap`  
+- ⚙️ I use daily: `JavaScript`, `HTML`, `CSS`, `React.js`, `Typescript`, `Vue.js`, `Node.js`, `Redux` 
 
 - 📫 Reach me: [![Linkedin Badge](https://img.shields.io/badge/-ricierirostirolla%20-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ricierirostirolla/ "Connect on LinkedIn")
 
