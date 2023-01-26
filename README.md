@@ -12,6 +12,9 @@
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrostirolla&show_icons=true)    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rrostirolla&hide=jupyter%20notebook&langs_count=20&count_private=true&show_icons=true&layout=compact) 
-
-![Snake animation](https://github.com/rrostirolla/rrostirolla/blob/output/github-contribution-grid-snake.svg)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rrostirolla&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rrostirolla&repo=convoychat" />
+</a>
